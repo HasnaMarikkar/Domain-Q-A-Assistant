@@ -3,7 +3,7 @@ Streamlit Web Application
 
 An AI assistant that answers questions within a chosen domain, using your own CSV as a knowledge base.
 
-How to Use
+How to Use the Application,
 1. Setup tab — pick a domain and upload your CSV
 2. Sidebar — paste your OpenAI API key
 3. Chat tab — ask a question and hit Get Answer
